@@ -1,0 +1,60 @@
+body {
+    background-color: #CBCACC;
+    font-family: 'Roboto', sans-serif;
+}
+
+#top > .navbar {
+    background-color: #fff;
+}
+
+#top > .navbar .dropdown-menu > li > a:hover,
+#top > .navbar .dropdown-menu > li > a:focus {
+    background-color: #406666;
+    color: #fff;
+}
+#menu,
+.main-bar,
+.user-media {
+    background-color: #406666;
+}
+
+#menu li > ul,
+.sidebar-left-mini #menu li > ul {
+    background-color: rgba(102,132,132, 0.9);
+        min-width: 150px;
+}
+
+#menu > li > a {
+    color: #fff;
+    text-shadow: none !important;
+}
+.sidebar-left-mini #menu > li > a > .link-title {
+    background-color: #425270;
+}
+
+
+.wrapper {
+    background-color: #CBCACC;
+}
+
+.main-bar {
+    border-left: 1px solid #000;
+}
+
+.main-bar h3 {    
+    color: #fff;
+}
+
+.inner {
+    padding: 10px;
+    min-height: 470px;
+}
+
+.pagination {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.table {
+    margin-top: 5px;
+}
